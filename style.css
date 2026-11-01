@@ -75,8 +75,6 @@ figcaption { margin-top: 1rem; font: .7rem Consolas, monospace; color: var(--mut
 .record-label { border-left: 2px solid var(--accent); padding-left: 1.5rem; }
 .record-label h2 { max-width: 20ch; }
 .record-label > p:last-child { color: var(--muted); font-size: .9rem; }
-.project-preview { margin: 0 0 1.5rem; }
-.project-preview img { display: block; width: 100%; height: auto; border: 1px solid var(--line); }
 .note { padding: 2rem; margin-top: 2rem; border-left: 2px solid var(--accent); background: #e9e6dc; }
 footer { padding: 1.5rem 0; margin-top: 2rem; border-top: 1px solid var(--ink); font-size: .75rem; flex-wrap: wrap; }
 footer p { margin: 0; }
