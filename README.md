@@ -1,12 +1,6 @@
 # CV web — Ayoub Dfil
-
 Projet SAÉ 1.04, BUT Réseaux et Télécommunications, IUT de Colmar, 2026–2027.
-
 Site personnel de quatre pages, entièrement en HTML et CSS.
-
-## Consulter le site
-
-Télécharger le dépôt, puis ouvrir `index.html` dans un navigateur. Garder les quatre pages, `style.css` et `photo.png` dans le même dossier.
 
 ## Organisation
 
