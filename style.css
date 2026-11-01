@@ -22,6 +22,9 @@ h3 { margin: 0 0 1rem; font-size: 1.12rem; }
 ul { padding-left: 1.2rem; }
 li { margin-bottom: .55rem; }
 section[id], main, body { scroll-margin-top: 1.5rem; }
+/* Repérer la rubrique atteinte après un clic sur une ancre. */
+.detail:target h2, h2:target { text-decoration: underline; text-decoration-color: var(--cuivre); text-underline-offset: .3em; }
+.retour { margin-top: 2rem; }
 .etiquette, .date, .titre-rubrique, .annee, .numero { font: .75rem/1.5 Consolas, monospace; letter-spacing: .08em; text-transform: uppercase; }
 .etiquette, .date { color: var(--cuivre); }
 .lien-contenu { position: absolute; left: 1rem; top: -5rem; padding: .6rem; background: white; z-index: 2; }
