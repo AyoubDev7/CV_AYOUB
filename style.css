@@ -82,6 +82,11 @@ figcaption { margin-top: 1rem; font: .7rem Consolas, monospace; color: var(--tex
 footer { padding: 1.5rem 0; margin-top: 2rem; border-top: 1px solid var(--texte); font-size: .75rem; flex-wrap: wrap; }
 footer p { margin: 0; }
 
+/* Illustrations du projet personnel, sans déformer les captures. */
+.illustration { margin: 1.5rem 0 2rem; }
+.illustration img { display: block; width: 100%; height: auto; border: 1px solid var(--bordure); }
+.illustration figcaption { font: .85rem/1.5 Arial, sans-serif; }
+
 /* 5. Fenêtre réduite, mobile, mouvement et impression. */
 @media (max-width: 1000px) {
   .presentation { grid-template-columns: 145px 1fr; gap: 1.5rem; }
