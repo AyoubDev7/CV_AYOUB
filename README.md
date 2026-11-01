@@ -4,9 +4,9 @@ Site personnel de quatre pages, entièrement en HTML et CSS.
 
 ## Organisation
 
-- `index.html` : profil, parcours synthétique, compétences et résumé anglais.
-- `formations.html` : études et présentation du projet.
-- `diplomes.html` : diplômes obtenus.
-- `experiences.html` : ALDI, Poulaillon et service civique.
-- `style.css` : feuille de style unique, commune aux quatre pages.
-- `photo.png` : portrait personnel.
+- index.html : profil, parcours synthétique, compétences et résumé anglais.
+- formations.html : études et présentation du projet.
+- diplomes.html : diplômes obtenus.
+- experiences.html : ALDI, Poulaillon et service civique.
+- style.css : feuille de style unique, commune aux quatre pages.
+- photo.png : portrait personnel.
