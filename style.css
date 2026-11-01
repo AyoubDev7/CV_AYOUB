@@ -115,13 +115,3 @@ footer p { margin: 0; }
   .resume-anglais { padding: 1.5rem; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
-@media print {
-  body { background: white; color: black; font-size: 10pt; }
-  .page { width: 100%; }
-  .menu, .sommaire, .lien-contenu, footer { display: none; }
-  .presentation { padding: 1rem 0; }
-  .resume-anglais { background: white; color: black; border: 1px solid; }
-  .resume-anglais .etiquette { color: black; }
-  .detail, .liste-competences article { break-inside: avoid; }
-  a { text-decoration: none; }
-}
